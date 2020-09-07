@@ -1,6 +1,6 @@
 # rofi-favorites
 
-Simple [rofi](https://github.com/davatorium/rofi) shell script that lists favorite apps.
+Simple [rofi](https://github.com/davatorium/rofi) shell script that lists favorites desktop apps.
 
 ![screenshot](screenshot.png)
 
