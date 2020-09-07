@@ -2,6 +2,8 @@
 
 Simple [rofi](https://github.com/davatorium/rofi) shell script that lists favorite apps.
 
+![screenshot](screenshot.png)
+
 Script extract favorites from `gsettings get org.gnome.shell favorite-apps` and read desktop files from `/usr/share/applications/`.
 
 ## Usage
